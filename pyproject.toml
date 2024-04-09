@@ -1,0 +1,14 @@
+[tool.poetry]
+name = "numerical-linear-algebra-mk"
+version = "0.1.0"
+description = "for self learning 08 april 2024"
+authors = ["Your Name <you@example.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.12"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
